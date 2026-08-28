@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-openrouter
+langchain-chroma
+langchain-huggingface
+langchain-tavily
+sentence-transformers
+python-dotenv
